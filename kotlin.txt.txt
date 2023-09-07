@@ -1,2 +1,0 @@
-usuario: dilan
-correo: dijoromar@hotmail.com
